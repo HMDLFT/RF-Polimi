@@ -1,13 +1,12 @@
 # RF-Polimi
 Radio Frequency Project - Polimi
 
- ## About the RF Project
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Objective</title>
+    <title>About the RF Project</title>
 </head>
 <body>
     <h2>Project Objective</h2>
