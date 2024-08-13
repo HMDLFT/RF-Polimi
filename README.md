@@ -2,10 +2,21 @@
 Radio Frequency Project - Polimi
 
  ## About the RF Project
-The objective of this project is to thoroughly comprehend the architecture of the RF front-end in a
-conversion receiver, encompassing components such as an amplier, RF lter, mixer, local oscillator,
-IF lter, and so on. The emphasis will be on elucidating the operation and conguration of these
-blocks and circuits. To initiate this exploration, the primary focus will involve obtaining parameters
-for the Low Noise Amplier (LNA) and Mixer through circuit simulations and replacing their new
-models in the circuit. Following this, the report will proceed to assess the RF front-end's performance
-by conducting simulations in the absence and presence of phase noise within the AWR software.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Objective</title>
+</head>
+<body>
+    <h2>Project Objective</h2>
+    <p>
+        The objective of this project is to thoroughly comprehend the architecture of the RF front-end in a conversion receiver. This includes key components such as the amplifier, RF filter, mixer, local oscillator, IF filter, and more. The focus will be on explaining the operation and configuration of these blocks and circuits.
+    </p>
+    <p>
+        To start, the primary goal is to obtain parameters for the Low Noise Amplifier (LNA) and Mixer through circuit simulations and update the circuit with their new models. Following this, the report will evaluate the RF front-end's performance by conducting simulations in both the absence and presence of phase noise using AWR software.
+    </p>
+</body>
+</html>
+
